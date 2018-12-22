@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Time Reins
-email: your-email@example.com
+email: # your-email@example.com
 description: Taking back control of your time 
 baseurl: "/"
 url: "http://timereins.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,7 +23,7 @@ github_username:  JPinlac
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
