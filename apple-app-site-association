@@ -2,4 +2,12 @@
    "webcredentials": {
        "apps": [    "Y2SB7Z72RM.com.jpinlac.Subbit" ]
     }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "Y2SB7Z72RM.com.jpinlac.Subbit",
+            "paths": ["/subbitapp"]
+            }
+            ]
+    }
 }
