@@ -6,7 +6,7 @@
         "apps": [],
         "details": [{
             "appID": "Y2SB7Z72RM.com.jpinlac.Subbit",
-            "paths": ["/subbitapp"]
+            "paths": ["/subbitapp*"]
             }
             ]
     }
